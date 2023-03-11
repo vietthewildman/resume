@@ -2,7 +2,7 @@
 
 ## PERSONAL INFORMATION
 #### NGUYỄN PHỤ HOÀNG VIỆT</br>
-Email: [hoangviet.nguyenphu@gmail.com](mailto:hoangviet.nguyenphu@gmail.com)</br>
+![envelope-solid](https://user-images.githubusercontent.com/67698435/224452955-35631434-11b0-44ed-a4c0-f1bee0ca4993.svg)Email: [hoangviet.nguyenphu@gmail.com](mailto:hoangviet.nguyenphu@gmail.com)</br>
 Phone: <a href="tel:0383887502">(+84) 38 388 7502</a>
 
 ## SKILLS
