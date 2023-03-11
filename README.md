@@ -1,13 +1,10 @@
 </br>
 <h1 align="center">RÉSUME</h1>
 
-<div style="text-align:center">
-
 [Work Experience](#1) | [Side Projects](#2) | [Education & Certificate](#3) | [Skills](#4)
 ### NGUYỄN PHỤ HOÀNG VIỆT</br>
 *Email:* [hoangviet.nguyenphu@gmail.com](mailto:hoangviet.nguyenphu@gmail.com)</br>
 *Phone:* <a href="tel:0383887502">(+84) 38 388 7502</a>
-</div>
 
 ---
 ## <a name="1">WORK EXPERIENCE</a>
