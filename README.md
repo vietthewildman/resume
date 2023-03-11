@@ -47,6 +47,7 @@ __Time__: Apr 2021 - Aug 2022 (1yr 5mos)*
 >
 >#### Predictive model:
 >- Leverage Machine Learning models using the previous historical price lists to predict the latest possible prices for telco vendors in Europe
+>- Report & present findings.
 
 #### Skills & Tools:
 - Data modeling, Data pipeline, Data Visualization
