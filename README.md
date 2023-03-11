@@ -2,8 +2,8 @@
 
 ## PERSONAL INFORMATION
 #### NGUYỄN PHỤ HOÀNG VIỆT</br>
-![gmail](https://user-images.githubusercontent.com/67698435/224453227-55437021-3a3c-4f99-a825-0a02abeb2f58.png)[hoangviet.nguyenphu@gmail.com](mailto:hoangviet.nguyenphu@gmail.com)</br>
-Phone: <a href="tel:0383887502">(+84) 38 388 7502</a>
+![gmail](https://user-images.githubusercontent.com/67698435/224453227-55437021-3a3c-4f99-a825-0a02abeb2f58.png) Email: [hoangviet.nguyenphu@gmail.com](mailto:hoangviet.nguyenphu@gmail.com)</br>
+![smartphone](https://user-images.githubusercontent.com/67698435/224454486-62be918d-8980-4594-b1ee-ed362cb2ac69.png) Phone: <a href="tel:0383887502">(+84) 38 388 7502</a>
 
 ## SKILLS
 * DS SaSS Tools: Dataiku, Qlik-sense, Pentaho, G-Studio, G-Bigquery
@@ -14,26 +14,27 @@ Phone: <a href="tel:0383887502">(+84) 38 388 7502</a>
 * Other: Digital Marketing, Graphic Design
 
 ## WORK EXPERIENCE
-### Data Analyst</br>
-### (Website digital experience & Marketing)
-*__Company__: Officience Vietnam</br>
-__Time__: Apr 2021 - Aug 2022 (1yr 5mos)*
+#### Digital Experience & Marketing Analyst</br>
+*__Domain__ Automotive
+*__Company__: oRo Vietnam</br>
+*__Time__: Aug 2022 - Current (7mos)
 >#### Data Processing: Dataiku, MySQL, Pentaho
 >Collect and transform data from different sources; build data model and design data warehouse on MySQL>; rebuild, automate and optimize ETL process
 >#### Data Visualization: Qlik-sense, Matplotlib, Seaborn
 >Build out reporting infrastructure from the ground up, communicate for improvement, and present to >stakeholders
 >#### Price Prediction:  Dataiku DSS Lab
->Build Machine Learning models using the previous historical price lists to predict the latest possible >prices for telco vendors in Europe
+>Build Machine Learning models using the previous historical price lists to predict the latest possible prices for telco vendors in Europe
 </br>
 ### Data Analytics Enineering
+*__Domain__ Telecomunication
 *__Company__: Officience Vietnam</br>
-__Time__: Apr 2021 - Aug 2022 (1yr 5mos)*
+*__Time__: Apr 2021 - Aug 2022 (1yr 5mos)
 >#### Data Processing: Dataiku, MySQL, Pentaho
 >Collect and transform data from different sources; build data model and design data warehouse on MySQL>; rebuild, automate and optimize ETL process
 >#### Data Visualization: Qlik-sense, Matplotlib, Seaborn
 >Build out reporting infrastructure from the ground up, communicate for improvement, and present to >stakeholders
 >#### Price Prediction:  Dataiku DSS Lab
->Build Machine Learning models using the previous historical price lists to predict the latest possible >prices for telco vendors in Europe
+>Build Machine Learning models using the previous historical price lists to predict the latest possible prices for telco vendors in Europe
 ## SIDE MACHINE LEARNING PROJECTS
 
 ## EDUCATION & CERTIFICATE
